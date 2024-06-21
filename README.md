@@ -22,3 +22,6 @@ This dataset contains information on customers, including their demographic deta
 14. **Previous Outcome**: Outcome of the previous marketing campaign, if applicable (e.g., unknown, failure, other).
 15. **Loan Default**: Indicator of whether the customer has defaulted on a loan (e.g., yes, no).
 16. **Customer ID (repeated)**: Redundant column identical to the first Customer ID column.
+
+## PowerBI Publish Dashboard
+https://app.powerbi.com/groups/me/reports/a356e0d7-40a0-4f68-8fa8-bde66ebbd77d/ReportSection8540b593b0341d11108b?experience=power-bi
