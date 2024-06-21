@@ -25,3 +25,8 @@ This dataset contains information on customers, including their demographic deta
 
 ## PowerBI Publish Dashboard
 https://app.powerbi.com/groups/me/reports/a356e0d7-40a0-4f68-8fa8-bde66ebbd77d/ReportSection8540b593b0341d11108b?experience=power-bi
+![3](https://github.com/vedavyas2810/Standard-Bank/assets/173001697/b9a92822-6f2d-497f-9c79-a1646a4d3e3a)
+![4](https://github.com/vedavyas2810/Standard-Bank/assets/173001697/984a1497-556e-4d4f-8ebd-ee972041b111)
+![2](https://github.com/vedavyas2810/Standard-Bank/assets/173001697/0a83f38c-021b-4978-a557-4ffb642f366a)
+![1](https://github.com/vedavyas2810/Standard-Bank/assets/173001697/210aa017-dfd5-4c57-92e7-08123043f69e)
+
